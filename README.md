@@ -4,16 +4,8 @@
 <p align="center">
   <img src="images/banner.png" width="100%">
 </p>
-──────────────────────────────────────────────────────┐
-│                 BANNER DA CYBER                       │
-│                Amanda Cavalcante                                        
-│ • Data Scientist       
-  • Machine Learning                                      │
-│ • Artificial Intelligence 
-└───────────────────────────────────────────────────────┘
+─┘
                               
-
-
 👋 Olá! Seja bem-vindo ao meu GitHub!
 
 📊 Ciência de Dados

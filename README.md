@@ -7,7 +7,7 @@
 ──────────────────────────────────────────────────────┐
 │                 BANNER DA CYBER                       │
 │                                                       │
-│     Amanda Cavalcante • Data Scientist             │
+│                Amanda Cavalcante • Data Scientist             │
 │     Machine Learning • Artificial Intelligence        │
 └───────────────────────────────────────────────────────┘
 

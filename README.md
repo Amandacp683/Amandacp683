@@ -6,10 +6,13 @@
 </p>
 ──────────────────────────────────────────────────────┐
 │                 BANNER DA CYBER                       │
-│                                                       │
-│                Amanda Cavalcante • Data Scientist             │
-│     Machine Learning • Artificial Intelligence        │
+│                Amanda Cavalcante                                        
+│ • Data Scientist       
+  • Machine Learning                                      │
+│ • Artificial Intelligence 
 └───────────────────────────────────────────────────────┘
+                              
+
 
 👋 Olá! Seja bem-vindo ao meu GitHub!
 
